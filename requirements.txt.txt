@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+pandas_datareader
+matplotlib
+plotly
+cufflinks
